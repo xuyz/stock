@@ -1,0 +1,11 @@
+
+listen: 9527
+
+juheKey: xxx
+
+# 企业ID
+wechatCorID: xxx
+# 应用编号
+wechatAgentID: xxx
+# 应用secret
+wechatSecret: xxx
